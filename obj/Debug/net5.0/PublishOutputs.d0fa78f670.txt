@@ -1,0 +1,13 @@
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\hate-speech-detection.exe
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\appsettings.json
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\data\data.json
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\hate-speech-detection.dll
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\hate-speech-detection.deps.json
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\hate-speech-detection.runtimeconfig.json
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\hate-speech-detection.pdb
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\machine-learning\hate-speech-detection\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
